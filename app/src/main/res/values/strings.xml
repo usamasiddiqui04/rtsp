@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RtspProject</string>
+    <string name="rtspUrl">rtsp://zephyr.rtsp.stream/movie?streamKey=cb4969f6ab23a449bd915e7971f7552f</string>
+</resources>
